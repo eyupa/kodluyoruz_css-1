@@ -1,0 +1,13 @@
+nav ul li {
+    display: inline;
+    padding: 10px 20px;
+    background: rgb(224, 148, 148);
+    color: white;
+    margin: 0;
+    border: 2px solid rgb(224, 148, 148);
+    list-style-type: none;
+    font-stretch: ultra-expanded;
+}
+nav ul li a {
+     
+}
